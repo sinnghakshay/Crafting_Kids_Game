@@ -1,0 +1,31 @@
+<LevelData>
+    <params filename = "New_LevelRef_29" posx = "504.000000" posy = "707.000000" tagtype = "0"  finalposx = "0.00" finalposy = "0.00" order = "-3"/>
+    <params filename="newbg1.jpg" posx="68.56" posy="440.56" tagtype="-100" finalposx="0.00" finalposy="0.00" order="-3"/>
+    <params filename="New_Matched_29.png" posx="68.56" posy="440.56" tagtype="-200" finalposx="0.00" finalposy="0.00" order="-3"/>
+    <params filename = "New_Dotted_29" posx = "730.00" posy = "384.0" tagtype = "-5"  finalposx = "0.00" finalposy = "0.00" order = "-3" />
+    
+        
+    <params filename = "New_shape29_1" posx = "142.000000" posy = "533.000000" tagtype = "1"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape29_1" posx = "326.000000" posy = "147.000000" tagtype = "1"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+     <params filename = "New_shape29_2" posx = "143.000000" posy = "129.000000" tagtype = "2"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape29_3" posx = "329.000000" posy = "563.000000" tagtype = "3"  finalposx = "240.00" finalposy = "96.00" order ="2"	/>
+    <params filename = "New_shape29_4" posx = "239.000000" posy = "659.000000" tagtype = "4"  finalposx = "240.00" finalposy = "96.00" order ="1"	/>
+    <params filename = "New_shape29_5" posx = "99.000000" posy = "333.000000" tagtype = "5"  finalposx = "240.00" finalposy = "96.00" order ="1"	/>
+    <params filename = "New_shape29_6" posx = "262.000000" posy = "340.000000" tagtype = "6"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+  
+
+
+    
+
+    <params filename = "New_shape29_1" posx = "567.000000" posy = "314.000000" tagtype = "31"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape29_1" posx = "858.000000" posy = "314.000000" tagtype = "31"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape29_2" posx = "584.000000" posy = "477.000000" tagtype = "32"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape29_3" posx = "826.000000" posy = "429.000000" tagtype = "33"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+    <params filename = "New_shape29_4" posx = "862.000000" posy = "365.000000" tagtype = "34"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+    <params filename = "New_shape29_5" posx = "575.000000" posy = "380.000000" tagtype = "35"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+    <params filename = "New_shape29_6" posx = "672.000000" posy = "421.000000" tagtype = "36"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+
+
+
+
+</LevelData>
