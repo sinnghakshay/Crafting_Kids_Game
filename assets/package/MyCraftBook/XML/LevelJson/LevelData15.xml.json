@@ -1,0 +1,168 @@
+﻿{
+    "LevelData": {
+        "params": [
+            {
+                "_filename": "New_LevelRef_35",
+                "_posx": "499.000000",
+                "_posy": "696.000000",
+                "_tagtype": "0",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "newbg2.jpg",
+                "_posx": "68.56",
+                "_posy": "440.56",
+                "_tagtype": "-100",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_Matched_35.png",
+                "_posx": "68.56",
+                "_posy": "440.56",
+                "_tagtype": "-200",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_Dotted_35",
+                "_posx": "730.00",
+                "_posy": "384.0",
+                "_tagtype": "-5",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_shape35_1",
+                "_posx": "163.000000",
+                "_posy": "564.000000",
+                "_tagtype": "1",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_2",
+                "_posx": "352.000000",
+                "_posy": "567.000000",
+                "_tagtype": "2",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_3",
+                "_posx": "252.000000",
+                "_posy": "383.000000",
+                "_tagtype": "3",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "2"
+            },
+            {
+                "_filename": "New_shape35_4",
+                "_posx": "375.000000",
+                "_posy": "334.000000",
+                "_tagtype": "4",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "2"
+            },
+            {
+                "_filename": "New_shape35_5",
+                "_posx": "245.000000",
+                "_posy": "692.000000",
+                "_tagtype": "5",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_6",
+                "_posx": "102.000000",
+                "_posy": "330.000000",
+                "_tagtype": "6",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_shape35_7",
+                "_posx": "218.000000",
+                "_posy": "140.000000",
+                "_tagtype": "7",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "2"
+            },
+            {
+                "_filename": "New_shape35_1",
+                "_posx": "861.000000",
+                "_posy": "517.000000",
+                "_tagtype": "31",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_2",
+                "_posx": "719.000000",
+                "_posy": "174.000000",
+                "_tagtype": "32",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_3",
+                "_posx": "745.000000",
+                "_posy": "531.000000",
+                "_tagtype": "33",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_4",
+                "_posx": "599.000000",
+                "_posy": "553.000000",
+                "_tagtype": "34",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_5",
+                "_posx": "543.000000",
+                "_posy": "602.000000",
+                "_tagtype": "35",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape35_6",
+                "_posx": "718.000000",
+                "_posy": "246.000000",
+                "_tagtype": "36",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_shape35_7",
+                "_posx": "723.000000",
+                "_posy": "384.000000",
+                "_tagtype": "37",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-2"
+            }
+        ]
+    }
+}

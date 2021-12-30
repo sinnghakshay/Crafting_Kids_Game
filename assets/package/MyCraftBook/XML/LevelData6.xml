@@ -1,0 +1,22 @@
+<LevelData>
+    <params filename = "New_LevelRef_13" posx = "507" posy = "695.0" tagtype = "0"  finalposx = "0.00" finalposy = "0.00" order = "-3"/>
+    <params filename="newbg2.jpg" posx="68.56" posy="440.56" tagtype="-100" finalposx="0.00" finalposy="0.00" order="-3"/>
+    <params filename="New_Matched_13.png" posx="68.56" posy="440.56" tagtype="-200" finalposx="0.00" finalposy="0.00" order="-3"/>
+    <params filename = "New_Dotted_13" posx = "730.00" posy = "384.0" tagtype = "-5"  finalposx = "0.00" finalposy = "0.00" order = "-3" />
+    
+        
+    <params filename = "New_shape13_1" posx = "243.000000" posy = "182.000000" tagtype = "1"  finalposx = "240.00" finalposy = "420.22" order = "0" />
+    <params filename = "New_shape13_2" posx = "237.000000" posy = "545.000000" tagtype = "2"  finalposx = "240.00" finalposy = "342.10" order = "1" />
+    <params filename = "New_shape13_3" posx = "85.000000" posy = "372.000000" tagtype = "3"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape13_4" posx = "244.000000" posy = "366.000000" tagtype = "4"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+    <params filename = "New_shape13_5" posx = "378.000000" posy = "372.000000" tagtype = "5"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+
+    
+    <params filename = "New_shape13_1" posx = "721.000000" posy = "483.000000" tagtype = "31"  finalposx = "240.00" finalposy = "420.22" order = "2" />
+    <params filename = "New_shape13_2" posx = "711.000000" posy = "276.000000" tagtype = "32"  finalposx = "240.00" finalposy = "342.10" order = "-2" />
+    <params filename = "New_shape13_3" posx = "722.000000" posy = "226.000000" tagtype = "33"  finalposx = "240.00" finalposy = "228.08" order ="2"	/>
+    <params filename = "New_shape13_4" posx = "600.000000" posy = "296.000000" tagtype = "34"  finalposx = "240.00" finalposy = "96.00" order ="2"	/>
+    <params filename = "New_shape13_5" posx = "835.000000" posy = "299.000000" tagtype = "35"  finalposx = "240.00" finalposy = "96.00" order ="2"	/>
+
+
+</LevelData>

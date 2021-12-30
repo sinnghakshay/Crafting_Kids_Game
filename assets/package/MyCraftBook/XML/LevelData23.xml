@@ -1,0 +1,20 @@
+<LevelData>
+    <params filename = "New_LevelRef_20" posx = "507" posy = "681.0" tagtype = "0"  finalposx = "0.00" finalposy = "0.00" order = "-3"/>
+    <params filename="newbg2.jpg" posx="68.56" posy="440.56" tagtype="-100" finalposx="0.00" finalposy="0.00" order="-3"/>
+    <params filename="New_Matched_20.png" posx="68.56" posy="440.56" tagtype="-200" finalposx="0.00" finalposy="0.00" order="-3"/>
+    <params filename = "New_Dotted_20" posx = "730.00" posy = "384.0" tagtype = "-5"  finalposx = "0.00" finalposy = "0.00" order = "-3" />
+        
+    <params filename = "New_shape20_1" posx = "123.000000" posy = "352.000000" tagtype = "1"  finalposx = "240.00" finalposy = "420.22" order = "2" />
+    <params filename = "New_shape20_2" posx = "172.000000" posy = "602.000000" tagtype = "2"  finalposx = "240.00" finalposy = "342.10" order = "-2" />
+    <params filename = "New_shape20_3" posx = "221.000000" posy = "142.000000" tagtype = "3"  finalposx = "240.00" finalposy = "228.08" order ="2"	/>
+    <params filename = "New_shape20_4" posx = "330.000000" posy = "343.000000" tagtype = "4"  finalposx = "240.00" finalposy = "96.00" order ="2"	/>
+    <params filename = "New_shape20_5" posx = "344.000000" posy = "586.000000" tagtype = "5"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+
+    
+    <params filename = "New_shape20_1" posx = "740.000000" posy = "267.000000" tagtype = "31"  finalposx = "240.00" finalposy = "420.22" order = "0" />
+    <params filename = "New_shape20_2" posx = "779.000000" posy = "430.000000" tagtype = "32"  finalposx = "240.00" finalposy = "342.10" order = "1" />
+    <params filename = "New_shape20_3" posx = "693.000000" posy = "430.000000" tagtype = "33"  finalposx = "240.00" finalposy = "228.08" order ="-2"	/>
+    <params filename = "New_shape20_4" posx = "738.000000" posy = "540.000000" tagtype = "34"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+    <params filename = "New_shape20_5" posx = "644.000000" posy = "493.000000" tagtype = "35"  finalposx = "240.00" finalposy = "96.00" order ="-2"	/>
+
+</LevelData>

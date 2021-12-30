@@ -1,0 +1,132 @@
+﻿{
+    "LevelData": {
+        "params": [
+            {
+                "_filename": "New_LevelRef_20",
+                "_posx": "507",
+                "_posy": "681.0",
+                "_tagtype": "0",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "newbg2.jpg",
+                "_posx": "68.56",
+                "_posy": "440.56",
+                "_tagtype": "-100",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_Matched_20.png",
+                "_posx": "68.56",
+                "_posy": "440.56",
+                "_tagtype": "-200",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_Dotted_20",
+                "_posx": "730.00",
+                "_posy": "384.0",
+                "_tagtype": "-5",
+                "_finalposx": "0.00",
+                "_finalposy": "0.00",
+                "_order": "-3"
+            },
+            {
+                "_filename": "New_shape20_1",
+                "_posx": "123.000000",
+                "_posy": "352.000000",
+                "_tagtype": "1",
+                "_finalposx": "240.00",
+                "_finalposy": "420.22",
+                "_order": "2"
+            },
+            {
+                "_filename": "New_shape20_2",
+                "_posx": "172.000000",
+                "_posy": "602.000000",
+                "_tagtype": "2",
+                "_finalposx": "240.00",
+                "_finalposy": "342.10",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape20_3",
+                "_posx": "221.000000",
+                "_posy": "142.000000",
+                "_tagtype": "3",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "2"
+            },
+            {
+                "_filename": "New_shape20_4",
+                "_posx": "330.000000",
+                "_posy": "343.000000",
+                "_tagtype": "4",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "2"
+            },
+            {
+                "_filename": "New_shape20_5",
+                "_posx": "344.000000",
+                "_posy": "586.000000",
+                "_tagtype": "5",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape20_1",
+                "_posx": "740.000000",
+                "_posy": "267.000000",
+                "_tagtype": "31",
+                "_finalposx": "240.00",
+                "_finalposy": "420.22",
+                "_order": "0"
+            },
+            {
+                "_filename": "New_shape20_2",
+                "_posx": "779.000000",
+                "_posy": "430.000000",
+                "_tagtype": "32",
+                "_finalposx": "240.00",
+                "_finalposy": "342.10",
+                "_order": "1"
+            },
+            {
+                "_filename": "New_shape20_3",
+                "_posx": "693.000000",
+                "_posy": "430.000000",
+                "_tagtype": "33",
+                "_finalposx": "240.00",
+                "_finalposy": "228.08",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape20_4",
+                "_posx": "738.000000",
+                "_posy": "540.000000",
+                "_tagtype": "34",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-2"
+            },
+            {
+                "_filename": "New_shape20_5",
+                "_posx": "644.000000",
+                "_posy": "493.000000",
+                "_tagtype": "35",
+                "_finalposx": "240.00",
+                "_finalposy": "96.00",
+                "_order": "-2"
+            }
+        ]
+    }
+}
